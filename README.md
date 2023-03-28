@@ -8,10 +8,10 @@ students can store their own projects on our repository and showcase their skill
 - User can upload the project and can view/download other projects
 - Admin will approve the uploaded projects
 - Admin can delete incase project is in
-
-This is our SEM-VI Mini-Project.
-Project contributors : 
--Dhruva Ludbe
--Harsh Chheda
--Mayuresh Chavan
+</br>
+This is our SEM-VI Mini-Project.</br>
+Project contributors : </br>
+-Dhruva Ludbe </br>
+-Harsh Chheda </br>
+-Mayuresh Chavan </br>
 -Suraj Mane
